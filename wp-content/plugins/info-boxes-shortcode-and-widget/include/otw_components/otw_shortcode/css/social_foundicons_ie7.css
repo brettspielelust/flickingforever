@@ -1,0 +1,126 @@
+/* general icons for IE7 */
+[class*="foundicon-"] {
+  font-family: "SocialFoundicons";
+  font-weight: normal;
+  font-style: normal;
+}
+
+.foundicon-thumb-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-thumb-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-rss {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-facebook {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-twitter {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-pinterest {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-github {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-path {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-linkedin {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-dribbble {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-stumble-upon {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-behance {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-reddit {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-google-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-youtube {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-vimeo {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-flickr {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-slideshare {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-picassa {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-skype {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-steam {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-instagram {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-foursquare {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-delicious {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-chat {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-torso {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-tumblr {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-video-chat {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-digg {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
+
+.foundicon-wordpress {
+  *zoom: expression(this.runtimeStyle['zoom'] = "1", this.innerHTML = "");
+}
