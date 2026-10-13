@@ -2473,3 +2473,13 @@ body.elementor-page .wrapper {
   font-family: var(--inheritedff);
   font-weight: var(--inheritedfw);
 }
+
+/* WordPress-Kommentare im statischen Archiv global ausblenden */
+#comments,
+.comments-area,
+#respond,
+.comment-respond,
+.comment-list,
+.comment-form {
+    display: none !important;
+}

@@ -2475,3 +2475,13 @@ body.elementor-page .wrapper {
 }
 
 /*# sourceMappingURL=style-main-new.css.map */
+
+/* WordPress-Kommentare im statischen Archiv global ausblenden */
+#comments,
+.comments-area,
+#respond,
+.comment-respond,
+.comment-list,
+.comment-form {
+    display: none !important;
+}
